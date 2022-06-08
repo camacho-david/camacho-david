@@ -8,8 +8,8 @@ Edge case bounty hunter.
 
 * 🌍  I'm based in the Bay Area
 * ✉️  You can contact me at [noedavidcamacho@gmail.com](mailto:noedavidcamacho@gmail.com)
-* 🔭 I’m currently working on AI and computer architecture side-projects, ACE Lab research at UC Berkeley, undergraduate work at UC Berkeley, and personal projects outside of programming such as video production.
-* 🌱 I’m currently learning learning TensorFlow and C++
+* 🔭 Working on AI and computer architecture side-projects, ACE Lab research at UC Berkeley, undergraduate work at UC Berkeley, and personal projects outside of programming such as video production.
+* 🌱 Currently learning learning TensorFlow and C++
 * Fun fact: I won an egg and spoon race once when I was six. 
 
 ### Skills
